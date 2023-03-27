@@ -8,7 +8,7 @@ import pandas as pd
 with st.sidebar:
     selected = option_menu(
         menu_title="Main Menu",
-        options=["Login Page","Predection Page"]
+        options=["Predection Page"]
     )
 
 
